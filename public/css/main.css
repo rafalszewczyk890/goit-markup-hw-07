@@ -51,7 +51,7 @@ a {
 .header {
   border-bottom: 1px solid #ececec;
 }
-.header-flexbox {
+.header__flexbox {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
